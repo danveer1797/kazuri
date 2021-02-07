@@ -5,3 +5,6 @@ strixx
 edit
 kazuri
 ezzy
+
+xhade 
+glyph
